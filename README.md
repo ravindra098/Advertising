@@ -1,4 +1,4 @@
-###dvertising-LogisticRegressionModel
+### Advertising-LogisticRegressionModel
 
 #### Creating a model that will predict whether or not a user will click on an Advertisement based on features of fake advertising data set.This data set contains the following features:
 
