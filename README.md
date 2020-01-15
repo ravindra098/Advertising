@@ -1,6 +1,6 @@
 ###dvertising-LogisticRegressionModel
 
-#### Creating a model that will predict whether or not users will click on an ad based on features of fake advertising data set.This data set contains the following features:
+#### Creating a model that will predict whether or not a user will click on an Advertisement based on features of fake advertising data set.This data set contains the following features:
 
 1.Daily Time Spent on Site': consumer time on site in minutes.
 
